@@ -3,6 +3,8 @@ Open or Shut is a mod made with BepInEx for use with the Potion Craft game. It a
 
 This is compatible with v1.0.3.0 of the Potion Craft Game
 
+This mod was inspired by [RiOpen](https://github.com/ColoursRi/RiOpen) by [ColoursRi](https://github.com/ColoursRi)
+
 ### BepInEx
 - Download the latest BepInEx release from [here](https://github.com/BepInEx/BepInEx/releases)
 Note: You need the `BepInEx_64` version for use with Potion Craft
